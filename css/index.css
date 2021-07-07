@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Arial";
+}
+
+body {
+  background: #1f1131;
+  padding: 20px;
+  position: relative;
+  min-height: 100vh;
+}
+
+.btn {
+  color: white;
+  padding: 11px 25px;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+  outline: none;
+  border: 0;
+  border-radius: 3px;
+  margin: 0 20px 0 0;
+  text-transform: uppercase;
+}
+
+.close {
+  display: block;
+  margin: 0 0 0 auto;
+  border: 0;
+  background: white;
+  font-size: 28px;
+}
+
+.btn-green {
+  background: #399e8c;
+}
